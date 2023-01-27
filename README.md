@@ -1,1 +1,2 @@
-<img src=".img/img.png">
+<!-- Day - 1 -->
+<img src="../img/day-1.PNG" alt="">
